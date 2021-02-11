@@ -5,4 +5,4 @@ Nodules:
 2.JavaScript + canvas/webg1
 3.Web UI, db,node
 
-![This is me](https://yandex.ru/images/search?pos=0&img_url=https%3A%2F%2Foren-m7.ru%2Fimages%2F400%2FDSC100498229.jpg)
+![This is me](http://gawain.ru/images/unesco/7_1_vrangel.jpg)
